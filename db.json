@@ -1,0 +1,119 @@
+{
+  "categories": [
+      {
+          "id": 1,
+          "name": "Laptops"
+      },
+      {
+          "id": 2,
+          "name": "Mobiles"
+      },
+      {
+          "id": 3,
+          "name": "Speakers"
+      }
+    ],
+  "products": [
+    { 
+      "id": 1, 
+      "name": "Lenovo", 
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+      "categoryId": 1 
+      }, 
+      { 
+      "id": 2, 
+      "name": "Mac", 
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+      "categoryId": 1 
+      },
+      { 
+      "id": 3, 
+      "name": "Dell", 
+      "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+      "categoryId": 1 
+      },
+      { 
+        "id": 4, 
+        "name": "Asus", 
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+        "categoryId": 1 
+        },
+        { 
+          "id": 5, 
+          "name": "HP", 
+          "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+          "categoryId": 1 
+          },
+          { 
+            "id": 6, 
+            "name": "Alienware", 
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+            "categoryId": 1 
+            },
+      { 
+        "id": 1, 
+        "name": "Blackberry", 
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+        "categoryId": 2 
+        }, 
+        { 
+        "id": 2, 
+        "name": "OnePlus", 
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+        "categoryId": 2 
+        },
+        { 
+          "id": 3, 
+          "name": "MotoG", 
+          "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+          "categoryId": 2 
+          },
+          { 
+            "id": 4, 
+            "name": "Iphone", 
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+            "categoryId": 2 
+            },
+        { 
+          "id": 1, 
+          "name": "JBL", 
+          "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+          "categoryId": 3 
+          }, 
+          { 
+          "id": 2, 
+          "name": "BOAT", 
+          "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+          "categoryId": 3 
+          },
+          { 
+          "id": 3, 
+          "name": "Skull", 
+          "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+          "categoryId": 3 
+          },
+          { 
+            "id": 4, 
+            "name": "Sony", 
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+            "categoryId": 3 
+          },
+          { 
+            "id": 5, 
+            "name": "Zebronics", 
+            "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png", 
+            "categoryId": 3 
+          }
+
+  ],
+  "productDetails": 
+    { 
+    "id": 1, 
+    "name": "Lenovo", 
+    "imageUrl": "<dummyURL>", 
+    "description": "Dummy description", 
+    "categoryId": 1 
+    }
+  
+    
+}
